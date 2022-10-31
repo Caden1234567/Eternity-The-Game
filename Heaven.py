@@ -23,3 +23,4 @@ print("I Will Now Teleport You To Your " + House + " House With A " +
       CarColor + " " + Car + " ")
 print("(You) Wow This Is Exactly How I wanted it ")
 print("")
+input("Press Enter To Continue!")
